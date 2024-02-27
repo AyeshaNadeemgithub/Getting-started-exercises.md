@@ -20,7 +20,7 @@ console.log(number >= 40);
 console.log("Test 6: Is color equal to 'green'? I predict False.");
 console.log(color == 'green');
 //test 7
-console.log("Test 7: Is car equal to 'subaru'? I predict False.");
+console.log("Test 7: Is car equal to 'honda'? I predict False.");
 console.log(car == 'honda');
 //test 8
 console.log("Test 8: Is number less than or equal to 30? I predict False.");
