@@ -34,7 +34,7 @@ console.log(fruit1 == 'apple' || fruit2 == 'banana');
 
 // Test whether an item is in an array
 console.log("Test 8: Is 'purple' in the colors array? I predict False.");
-console.log(colors.includes('False'));
+console.log(colors.includes('purple'));
 
 // Test whether an item is not in an array
 console.log("Test 9: Is 'yellow' not in the colors array? I predict True.");
